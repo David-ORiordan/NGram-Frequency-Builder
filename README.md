@@ -27,5 +27,16 @@ After running the application, the menu will display the options which allow you
 Once all data has been input, you can create the n-Gram frequency output file (Option 5). At any point, you can view or reset the data (Options 6 and 7, respectively).  
 (Option 8) Quits the application.  
 
+View of Menu:  
+
+<img width="351" alt="NGramMenu" src="https://user-images.githubusercontent.com/124048714/217559622-cf832228-72ba-4a2c-a195-15c14dae6201.png">  
+
+Sample Output (2-Grams sourced from the text file directory found in this repository, sorted by most frequently occurring):  
+
+<img width="259" alt="NGramSampleOutput" src="https://user-images.githubusercontent.com/124048714/217564168-8a4ecc85-aa57-4407-8781-9bfd9626252e.png">
+
+
+
+
 ### Techonology used:  
 - Java 17

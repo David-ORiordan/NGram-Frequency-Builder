@@ -19,6 +19,7 @@ Output the map to a text file in CSV format.
 - Informs user of how long it took to generate the n-Gram output file.
 
 ### How to run:
+Compile the java files from the src folder and then run via the Runner class.  
 After running the application, the menu will display the options which allow you to input all the necessary data (Options 1-4) to build an n-Gram frequency file.  
 (Option 1) Enter a text file directory containing the text files from which you wish to generate n-Grams. Ensure that a full path name is given.  
 (Option 2) Choose an n-Gram size (1-5).  
